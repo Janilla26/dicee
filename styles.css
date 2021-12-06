@@ -1,0 +1,24 @@
+body{
+  background-color: grey;
+  color:white;
+  padding: 5%;
+  text-align: center;
+  position: relative;
+}
+
+img{
+margin: 2rem;
+width:20%;
+}
+
+.container-fluid{
+  margin: 30px 0;
+}
+
+.hidden{
+  visibility: hidden;
+}
+
+.h1{
+  position: absolute;
+}
